@@ -1,0 +1,19 @@
+body {
+  padding: 20px;
+}
+
+.card {
+    max-width:300px;
+    padding: 10px;    
+}
+
+.card > img {
+    min-width: 50px;
+    min-height: 100px;
+    background: red;
+    margin: 10px 0;
+}
+
+header{
+    margin: 0 0 50px 0;
+}
